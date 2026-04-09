@@ -1,7 +1,6 @@
 pandas
 streamlit
 openai
-faiss-cpu
 sentence-transformers
 groq
 langchain
